@@ -1,3 +1,38 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+.banner-container{
+    background-color: #CBCACC;
+}
+
+.banner-column{
+    background-color: #8E8C8E;
+}
+
+.navbar-container{
+    background-color: #282A35;
+}
+
+.about-container{
+    background-color: #01BBBD;
+}
+
+.education-container{
+    background-color: #EEEDEF;
+}
+
+.edu-text-color{
+    color: #c2088a;
+}
+
+.edu-bg-color{
+    background-color: #EEEDEF;
+}
+
+.circle{
+    background-color: rgb(255, 137, 239);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
